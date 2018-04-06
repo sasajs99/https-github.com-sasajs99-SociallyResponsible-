@@ -1,5 +1,6 @@
 var apiUrl = location.protocol + '//' + location.host + location.pathname + "api/";
 //var apiUrl = "http://localhost:8080/api/";
+ 
 
 //update interface with portfolios and risk factors
 var display=["loader_section","section_one","section_two","section_three","section_four","section_five"];
